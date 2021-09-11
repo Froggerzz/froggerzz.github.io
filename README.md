@@ -1,2 +1,2 @@
-# Gunstrix-Website
-### The website for the streamer Gunstrix.
+# Froggerz Website
+### The website for the streamer Froggerz.
